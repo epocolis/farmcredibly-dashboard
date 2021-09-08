@@ -19,6 +19,11 @@ index = {"not_empty": "farmgate_data_viz.ipynb",
          "process_group": "farmgate_data_viz.ipynb",
          "group": "farmgate_data_viz.ipynb",
          "header": "farmgate_data_viz.ipynb",
+         "combine_parish_data": "farmgate_data_viz.ipynb",
+         "pd1": "farmgate_data_viz.ipynb",
+         "pd2": "farmgate_data_viz.ipynb",
+         "p": "farmgate_data_viz.ipynb",
+         "c": "farmgate_data_viz.ipynb",
          "run": "farmgate_data_viz.ipynb",
          "main": "farmgate_data_viz.ipynb"}
 

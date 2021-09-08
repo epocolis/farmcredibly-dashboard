@@ -21,4 +21,4 @@ python agricultural_pricing_analytics.py [-h] input_path output_folder
 python agricultural_pricing_analytics.py ../data/raw/farmgate_prices_2020_2021/csv/Farmgate\ 08.07.2021.csv ../output
 
 ```
-The output files will be written in the folder ../output/august_07_2021/..
+A single output file will be written to ../output/august_07_2021/all_august_07_2021.csv

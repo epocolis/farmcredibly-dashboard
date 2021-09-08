@@ -3,7 +3,7 @@
 __all__ = ['not_empty', 'remove_brand_row', 'get_parishes', 'remove_empty_strings_from_data_rows', 'get_data',
            'format_date', 'get_headers', 'clean_date', 's', 'ParishData', 'flatten_list',
            'remove_empty_strings_from_list', 'create_parish_data', 'split_data', 'process_group', 'group', 'header',
-           'run', 'main']
+           'combine_parish_data', 'header', 'pd1', 'pd2', 'p', 'c', 'p', 'run', 'main']
 
 # Cell
 import pandas as pd
@@ -133,7 +133,7 @@ class ParishData:
 
 
     def __repr__(self):
-        return f"{self.parish}: {self.data[:12]}"
+        return f"{self.parish}: {self.data}"
 
 # Cell
 def flatten_list(lst):
@@ -252,6 +252,45 @@ header = ['date', 'parish', 'Commodity', 'Variety Source',
 global report_date
 
 # Cell
+def combine_parish_data(parish_data_list:list):
+    """
+    Combine multiple parish  objects into a single
+    Parish object. The new parish object has a
+    single header
+
+    Parameters
+    ----------
+    parish_data_list: list
+    A list of parish data objects
+
+    Returns
+    -------
+
+    ParishData
+
+    The combination of all the objects
+    in the parish_data_list
+
+    """
+    header = parish_data_list[0].header
+    combine_data = []
+    for p in parish_data_list:
+        # remove the header row
+        combine_data.extend(p.data)
+
+    p_data = ParishData("all",combine_data, header)
+    return  p_data
+
+header = ["h1","h2","h3"]
+pd1 = ParishData("parish1", [["h1","h2","h3"],[1,2,3],[4,5,6]],["h1","h2","h3"])
+pd2 = ParishData("parish2", [["h1","h2","h3"],[7,8,9],[10,11,12]],["h1","h2","h3"])
+p = combine_parish_data([pd1,pd2])
+c = [["h1","h2","h3"],[1,2,3],[4,5,6]]
+p = c[1:]
+p[:0] = [["h1","h2","h3"]]
+print(p)
+
+# Cell
 def run(input_path:str, output_directory:str):
     global report_date
     path = input_path
@@ -288,8 +327,11 @@ def run(input_path:str, output_directory:str):
         processed_groups.append(group)
 
     flat_list = [item for sublist in processed_groups for item in sublist]
-    for p in flat_list:
-        p.write_to_csv(output_directory)
+
+    parish_data = combine_parish_data(flat_list)
+    parish_data.write_to_csv(output_directory)
+
+
 
 # Cell
 @call_parse
