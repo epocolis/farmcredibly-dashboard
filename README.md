@@ -22,3 +22,25 @@ python agricultural_pricing_analytics.py ../data/raw/farmgate_prices_2020_2021/c
 
 ```
 A single output file will be written to ../output/august_07_2021/all_august_07_2021.csv
+
+
+## How to clean the Urban Municipal  files
+
+The python script that processes the farm_gate files is located in the: **datadash/urban_municipal/urban_municipal_prices_analytics/urban_municipal_data_cleaner** folder.
+
+You can run the script by runing: 
+```bash
+
+python urban_municipal_analytics.py  [-h] input_path output_folder
+```
+
+**for example:**
+
+```bash
+
+python urban_municipal_analytics.py  ../../data/raw/Urban\ Municipal\ 09.04.2021.csv ../../data/output
+
+```
+A single output file will be written to ../data/output/september_04_2021/urban_municipal_market_prices_september_04_2021.csv
+
+
