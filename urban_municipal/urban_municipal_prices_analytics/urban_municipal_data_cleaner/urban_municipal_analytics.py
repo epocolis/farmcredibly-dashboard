@@ -73,7 +73,7 @@ class  UrbanMunicipalMarketPricesFactory:
         headers = data_list[9].split("|")
         headers[:0] = ["market"]
         headers[:0] = ["date"]
-        headers = { idx:val for idx ,val in enumerate(headers)}
+        data
 
         data = []
         price_data = data_list[10:]
