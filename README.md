@@ -1,9 +1,13 @@
 # Datadash
-Data Dashboard Scripts and code for farmgate, retail and municipal market data in Jamaica
+Data Dashboard Scripts and code for farmgate, retail and municipal,wholesale market price data in Jamaica
 
 ## Requirements: 
 
-Make sure you have the lastest version of pandas installed. see https://pandas.pydata.org/getting_started.html
+
+First install the following:
+- pandas: see https://pandas.pydata.org/getting_started.html
+- pdftotext: see https://github.com/jalan/pdftotext
+
 
 ## How to process the farm_gate files
 
@@ -63,4 +67,32 @@ python retail_price_analytics.py ../../data/raw/retail_01.16.2021.csv  ../../dat
 
 ```
 A single output file will be written to  ../../data/output/september_04_2021/retail_prices_september_04_2021.csv
+
+
+## How to clean the Wholesale prices files
+
+
+
+The python script that processes the retail files are located in the: **datadash/wholesale/wholesale-agriculture-analytics/wholesale_price_analytics** folder.
+
+You can run the script by running: 
+```bash
+
+python wholesale_price_analytics.py [-h] input_path output_folder
+
+```
+
+**for example:**
+
+```bash
+
+python retail_price_analytics.py ../../data/raw/retail_01.16.2021.csv  ../../data/output
+
+```
+A single output file will be written to  ../../data/output/september_04_2021/retail_prices_september_04_2021.csv
+
+
+
+
+
 
