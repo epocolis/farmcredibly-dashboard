@@ -8,6 +8,16 @@ First install the following:
 - pandas: see https://pandas.pydata.org/getting_started.html
 - pdftotext: see https://github.com/jalan/pdftotext
 
+### XLS files
+
+The .xls files provided by JAMIS should be converted to pipe delimited files.
+
+On a Mac, in Excel select "Save As..." and select Tab seperated. 
+
+Then run the following command on the saved txt file:
+```bash
+tr '\t' '\|' < file.txt > file_converted.csv
+```
 
 ## How to process the farm_gate files
 
