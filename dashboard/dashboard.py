@@ -11,6 +11,7 @@ def get_UN_data():
     return df.set_index("Region")
 
 try:
+    st.title("Jamaica Farm Gate Prices")
     df = get_UN_data()
     countries = st.multiselect(
         "Choose countries", list(df.index), ["China", "United States of America"]
@@ -20,6 +21,7 @@ try:
     else:
         data = df.loc[countries]
         data /= 1000000.0
+       
         st.write("### Gross Agricultural Production ($B)", data.sort_index())
 
         data = data.T.reset_index()
