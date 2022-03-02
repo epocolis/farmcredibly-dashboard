@@ -1,3 +1,5 @@
 *.xls
 *.pdf
 *.pyc
+venv
+*.egg

@@ -1,0 +1,651 @@
+date|parish|commodity|variety source|low|high|most frequent|supply|grade
+july_31_2021|Manchester|broccoli|local|-|-|-|-|-
+july_31_2021|Manchester|cabbage (green)|local|110|154|154|moderate|excellent
+july_31_2021|Manchester|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Manchester|callaloo|shredded|-|-|-|-|-
+july_31_2021|Manchester|callaloo|whole|77|99|88|moderate|excellent
+july_31_2021|Manchester|cantaloupe|local|176|220|176|moderate|excellent
+july_31_2021|Manchester|carrot|local|88|110|99|fair|excellent
+july_31_2021|Manchester|cauliflower|local|440|550|484|moderate|excellent
+july_31_2021|Manchester|coco|local|242|308|275|moderate|excellent
+july_31_2021|Manchester|cucumber|local|66|110|77|moderate|excellent
+july_31_2021|Manchester|dasheen|local|-|-|-|-|-
+july_31_2021|Manchester|escallion|local|132|154|143|fair|excellent
+july_31_2021|Manchester|ginger|local|-|-|-|-|-
+july_31_2021|Manchester|green banana|local|44|55|49.5|moderate|excellent
+july_31_2021|Manchester|gungo peas|dry|-|-|-|-|-
+july_31_2021|Manchester|gungo peas|green|-|-|-|-|-
+july_31_2021|Manchester|honeydew melon|local|-|-|-|-|-
+july_31_2021|Manchester|irish potato|local|308|330|319|moderate|excellent
+july_31_2021|Manchester|lettuce|iceberg (local)|484|550|517|scarce|excellent
+july_31_2021|Manchester|lettuce|other|-|-|-|-|-
+july_31_2021|Manchester|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|Manchester|okra|local|-|-|-|-|-
+july_31_2021|Manchester|onion|local|-|-|-|-|-
+july_31_2021|Manchester|pak choi|local|-|-|-|-|-
+july_31_2021|Manchester|papaya|local|-|-|-|-|-
+july_31_2021|Manchester|pepper|scotch bonnet|176|264|220|moderate|excellent
+july_31_2021|Manchester|pepper|west indian red|110|154|110|moderate|excellent
+july_31_2021|Manchester|pineapple|cow boy|-|-|-|-|-
+july_31_2021|Manchester|pineapple|md 2|-|-|-|-|-
+july_31_2021|Manchester|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|Manchester|plantain|green|88|154|110|moderate|excellent
+july_31_2021|Manchester|plantain|ripe|110|154|110|moderate|excellent
+july_31_2021|Manchester|pumpkin|local|66|110|66|moderate|excellent
+july_31_2021|Manchester|sorrel|local|-|-|-|-|-
+july_31_2021|Manchester|string bean|local|330|440|396|scarce|excellent
+july_31_2021|Manchester|sweet pepper (green)|green house (local)|264|308|308|moderate|excellent
+july_31_2021|Manchester|sweet pepper (green)|local|154|220|220|moderate|excellent
+july_31_2021|Manchester|sweet pepper (red)|green house (local)|484|550|517|moderate|excellent
+july_31_2021|Manchester|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|Manchester|sweet pepper (yellow)|green house (local)|484|550|517|moderate|excellent
+july_31_2021|Manchester|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|Manchester|sweet potato|local|110|220|110|fair|excellent
+july_31_2021|Manchester|thyme|local|550|660|605|moderate|excellent
+july_31_2021|Manchester|tomatoes(plummy)|local|176|220|187|scarce|excellent
+july_31_2021|Manchester|tomatoes(salad)|local|330|396|363|scarce|excellent
+july_31_2021|Manchester|watermelon|local|110|132|121|moderate|excellent
+july_31_2021|Manchester|yam|negro|440|660|550|scarce|excellent
+july_31_2021|Manchester|yam|sweet|-|-|-|-|-
+july_31_2021|Manchester|yam|white (lucea)|-|-|-|-|-
+july_31_2021|Manchester|yam|yellow|440|660|550|scarce|excellent
+july_31_2021|St. Andrew|broccoli|local|880|1100|1100|fair|excellent
+july_31_2021|St. Andrew|cabbage (green)|local|154|176|154|fair|excellent
+july_31_2021|St. Andrew|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Andrew|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. Andrew|callaloo|whole|132|132|132|fair|excellent
+july_31_2021|St. Andrew|cantaloupe|local|-|-|-|-|-
+july_31_2021|St. Andrew|carrot|local|110|132|110|fair|excellent
+july_31_2021|St. Andrew|cauliflower|local|440|550|440|fair|excellent
+july_31_2021|St. Andrew|coco|local|-|-|-|-|-
+july_31_2021|St. Andrew|cucumber|local|66|66|66|fair|excellent
+july_31_2021|St. Andrew|dasheen|local|-|-|-|-|-
+july_31_2021|St. Andrew|escallion|local|176|220|176|fair|excellent
+july_31_2021|St. Andrew|ginger|local|-|-|-|-|-
+july_31_2021|St. Andrew|green banana|local|132|154|132|fair|excellent
+july_31_2021|St. Andrew|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Andrew|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Andrew|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. Andrew|irish potato|local|-|-|-|-|-
+july_31_2021|St. Andrew|lettuce|iceberg (local)|660|770|660|fair|excellent
+july_31_2021|St. Andrew|lettuce|other|-|-|-|-|-
+july_31_2021|St. Andrew|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|St. Andrew|okra|local|-|-|-|-|-
+july_31_2021|St. Andrew|onion|local|-|-|-|-|-
+july_31_2021|St. Andrew|pak choi|local|-|-|-|-|-
+july_31_2021|St. Andrew|papaya|local|-|-|-|-|-
+july_31_2021|St. Andrew|pepper|scotch bonnet|264|330|330|fair|excellent
+july_31_2021|St. Andrew|pepper|west indian red|-|-|-|-|-
+july_31_2021|St. Andrew|pineapple|cow boy|-|-|-|-|-
+july_31_2021|St. Andrew|pineapple|md 2|-|-|-|-|-
+july_31_2021|St. Andrew|pineapple|sugar loaf|110|132|110|fair|excellent
+july_31_2021|St. Andrew|plantain|green|154|176|154|fair|excellent
+july_31_2021|St. Andrew|plantain|ripe|-|-|-|-|-
+july_31_2021|St. Andrew|pumpkin|local|110|132|110|fair|excellent
+july_31_2021|St. Andrew|sorrel|local|-|-|-|-|-
+july_31_2021|St. Andrew|string bean|local|264|264|264|fair|excellent
+july_31_2021|St. Andrew|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Andrew|sweet pepper (green)|local|176|220|176|fair|excellent
+july_31_2021|St. Andrew|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. Andrew|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Andrew|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Andrew|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Andrew|sweet potato|local|-|-|-|-|-
+july_31_2021|St. Andrew|thyme|local|660|660|660|fair|excellent
+july_31_2021|St. Andrew|tomatoes(plummy)|local|110|132|132|fair|excellent
+july_31_2021|St. Andrew|tomatoes(salad)|local|220|264|220|fair|excellent
+july_31_2021|St. Andrew|watermelon|local|-|-|-|-|-
+july_31_2021|St. Andrew|yam|negro|-|-|-|-|-
+july_31_2021|St. Andrew|yam|sweet|-|-|-|-|-
+july_31_2021|St. Andrew|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. Andrew|yam|yellow|-|-|-|-|-
+july_31_2021|St. Catherine|broccoli|local|-|-|-|-|-
+july_31_2021|St. Catherine|cabbage (green)|local|110|176|143|scarce|excellent
+july_31_2021|St. Catherine|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Catherine|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. Catherine|callaloo|whole|44|88|49.5|moderate|excellent
+july_31_2021|St. Catherine|cantaloupe|local|-|-|-|-|-
+july_31_2021|St. Catherine|carrot|local|-|-|-|-|-
+july_31_2021|St. Catherine|cauliflower|local|-|-|-|-|-
+july_31_2021|St. Catherine|coco|local|-|-|-|-|-
+july_31_2021|St. Catherine|cucumber|local|22|44|44|moderate|excellent
+july_31_2021|St. Catherine|dasheen|local|176|220|198|moderate|excellent
+july_31_2021|St. Catherine|escallion|local|-|-|-|-|-
+july_31_2021|St. Catherine|ginger|local|-|-|-|-|-
+july_31_2021|St. Catherine|green banana|local|68.2|68.2|68.2|moderate|excellent
+july_31_2021|St. Catherine|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Catherine|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Catherine|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. Catherine|irish potato|local|-|-|-|-|-
+july_31_2021|St. Catherine|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|St. Catherine|lettuce|other|-|-|-|-|-
+july_31_2021|St. Catherine|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|St. Catherine|okra|local|110|110|110|moderate|excellent
+july_31_2021|St. Catherine|onion|local|-|-|-|-|-
+july_31_2021|St. Catherine|pak choi|local|-|-|-|-|-
+july_31_2021|St. Catherine|papaya|local|-|-|-|-|-
+july_31_2021|St. Catherine|pepper|scotch bonnet|220|330|275|moderate|excellent
+july_31_2021|St. Catherine|pepper|west indian red|132|154|132|scarce|excellent
+july_31_2021|St. Catherine|pineapple|cow boy|-|-|-|-|-
+july_31_2021|St. Catherine|pineapple|md 2|-|-|-|-|-
+july_31_2021|St. Catherine|pineapple|sugar loaf|220|220|220|scarce|excellent
+july_31_2021|St. Catherine|plantain|green|290|290|290|scarce|excellent
+july_31_2021|St. Catherine|plantain|ripe|-|-|-|-|-
+july_31_2021|St. Catherine|pumpkin|local|66|110|66|moderate|excellent
+july_31_2021|St. Catherine|sorrel|local|-|-|-|-|-
+july_31_2021|St. Catherine|string bean|local|-|-|-|-|-
+july_31_2021|St. Catherine|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Catherine|sweet pepper (green)|local|110|176|143|moderate|excellent
+july_31_2021|St. Catherine|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. Catherine|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Catherine|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Catherine|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Catherine|sweet potato|local|88|176|99|scarce|excellent
+july_31_2021|St. Catherine|thyme|local|-|-|-|-|-
+july_31_2021|St. Catherine|tomatoes(plummy)|local|176|220|220|scarce|excellent
+july_31_2021|St. Catherine|tomatoes(salad)|local|-|-|-|-|-
+july_31_2021|St. Catherine|watermelon|local|-|-|-|-|-
+july_31_2021|St. Catherine|yam|negro|330|330|330|scarce|excellent
+july_31_2021|St. Catherine|yam|sweet|-|-|-|-|-
+july_31_2021|St. Catherine|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. Catherine|yam|yellow|330|330|330|scarce|excellent
+july_31_2021|Clarendon|broccoli|local|770|770|770|moderate|excellent
+july_31_2021|Clarendon|cabbage (green)|local|88|176|110|moderate|excellent
+july_31_2021|Clarendon|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Clarendon|callaloo|shredded|-|-|-|-|-
+july_31_2021|Clarendon|callaloo|whole|55|77|66|moderate|excellent
+july_31_2021|Clarendon|cantaloupe|local|-|-|-|-|-
+july_31_2021|Clarendon|carrot|local|66|110|88|fair|excellent
+july_31_2021|Clarendon|cauliflower|local|330|330|330|moderate|excellent
+july_31_2021|Clarendon|coco|local|176|264|220|moderate|excellent
+july_31_2021|Clarendon|cucumber|local|66|176|95.33|moderate|excellent
+july_31_2021|Clarendon|dasheen|local|220|330|264|moderate|excellent
+july_31_2021|Clarendon|escallion|local|-|-|-|-|-
+july_31_2021|Clarendon|ginger|local|440|660|495|moderate|excellent
+july_31_2021|Clarendon|green banana|local|44|88|66|fair|excellent
+july_31_2021|Clarendon|gungo peas|dry|-|-|-|-|-
+july_31_2021|Clarendon|gungo peas|green|-|-|-|-|-
+july_31_2021|Clarendon|honeydew melon|local|-|-|-|-|-
+july_31_2021|Clarendon|irish potato|local|264|330|264|scarce|excellent
+july_31_2021|Clarendon|lettuce|iceberg (local)|330|660|550|scarce|excellent
+july_31_2021|Clarendon|lettuce|other|-|-|-|-|-
+july_31_2021|Clarendon|lettuce|romaine (local)|770|880|770|scarce|excellent
+july_31_2021|Clarendon|okra|local|88|220|220|moderate|excellent
+july_31_2021|Clarendon|onion|local|330|330|330|scarce|excellent
+july_31_2021|Clarendon|pak choi|local|66|176|88|moderate|excellent
+july_31_2021|Clarendon|papaya|local|-|-|-|-|-
+july_31_2021|Clarendon|pepper|scotch bonnet|176|220|220|fair|excellent
+july_31_2021|Clarendon|pepper|west indian red|110|176|143|fair|excellent
+july_31_2021|Clarendon|pineapple|cow boy|154|220|176|moderate|excellent
+july_31_2021|Clarendon|pineapple|md 2|220|286|256.67|moderate|excellent
+july_31_2021|Clarendon|pineapple|sugar loaf|154|220|165|moderate|excellent
+july_31_2021|Clarendon|plantain|green|88|132|110|moderate|excellent
+july_31_2021|Clarendon|plantain|ripe|132|176|176|moderate|excellent
+july_31_2021|Clarendon|pumpkin|local|66|132|110|moderate|excellent
+july_31_2021|Clarendon|sorrel|local|330|550|440|moderate|excellent
+july_31_2021|Clarendon|string bean|local|220|330|308|moderate|excellent
+july_31_2021|Clarendon|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|Clarendon|sweet pepper (green)|local|220|374|220|moderate|excellent
+july_31_2021|Clarendon|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|Clarendon|sweet pepper (red)|local|550|550|550|moderate|excellent
+july_31_2021|Clarendon|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|Clarendon|sweet pepper (yellow)|local|550|550|550|moderate|excellent
+july_31_2021|Clarendon|sweet potato|local|110|154|132|fair|excellent
+july_31_2021|Clarendon|thyme|local|-|-|-|-|-
+july_31_2021|Clarendon|tomatoes(plummy)|local|110|220|176|moderate|excellent
+july_31_2021|Clarendon|tomatoes(salad)|local|176|308|264|moderate|excellent
+july_31_2021|Clarendon|watermelon|local|66|110|88|fair|excellent
+july_31_2021|Clarendon|yam|negro|440|550|440|moderate|excellent
+july_31_2021|Clarendon|yam|sweet|-|-|-|-|-
+july_31_2021|Clarendon|yam|white (lucea)|-|-|-|-|-
+july_31_2021|Clarendon|yam|yellow|330|660|550|moderate|excellent
+july_31_2021|St. Elizabeth|broccoli|local|660|770|715|moderate|excellent
+july_31_2021|St. Elizabeth|cabbage (green)|local|132|176|154|moderate|excellent
+july_31_2021|St. Elizabeth|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. Elizabeth|callaloo|whole|-|-|-|-|-
+july_31_2021|St. Elizabeth|cantaloupe|local|132|154|143|moderate|excellent
+july_31_2021|St. Elizabeth|carrot|local|110|154|132|moderate|excellent
+july_31_2021|St. Elizabeth|cauliflower|local|308|330|319|moderate|excellent
+july_31_2021|St. Elizabeth|coco|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|cucumber|local|66|88|77|fair|excellent
+july_31_2021|St. Elizabeth|dasheen|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|escallion|local|132|154|143|moderate|excellent
+july_31_2021|St. Elizabeth|ginger|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|green banana|local|77|88|82.5|moderate|excellent
+july_31_2021|St. Elizabeth|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Elizabeth|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Elizabeth|honeydew melon|local|154|198|176|moderate|excellent
+july_31_2021|St. Elizabeth|irish potato|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|lettuce|iceberg (local)|440|550|440|moderate|excellent
+july_31_2021|St. Elizabeth|lettuce|other|-|-|-|-|-
+july_31_2021|St. Elizabeth|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|St. Elizabeth|okra|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|onion|local|396|440|418|moderate|excellent
+july_31_2021|St. Elizabeth|pak choi|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|papaya|local|132|154|143|moderate|excellent
+july_31_2021|St. Elizabeth|pepper|scotch bonnet|176|264|214.5|moderate|excellent
+july_31_2021|St. Elizabeth|pepper|west indian red|143|154|148.5|moderate|excellent
+july_31_2021|St. Elizabeth|pineapple|cow boy|110|132|121|moderate|excellent
+july_31_2021|St. Elizabeth|pineapple|md 2|132|154|143|moderate|excellent
+july_31_2021|St. Elizabeth|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|St. Elizabeth|plantain|green|110|154|132|moderate|excellent
+july_31_2021|St. Elizabeth|plantain|ripe|-|-|-|-|-
+july_31_2021|St. Elizabeth|pumpkin|local|66|88|77|moderate|excellent
+july_31_2021|St. Elizabeth|sorrel|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|string bean|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet pepper (green)|local|264|330|286|moderate|excellent
+july_31_2021|St. Elizabeth|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Elizabeth|sweet potato|local|132|176|143|moderate|excellent
+july_31_2021|St. Elizabeth|thyme|local|440|660|550|moderate|excellent
+july_31_2021|St. Elizabeth|tomatoes(plummy)|local|110|154|132|moderate|excellent
+july_31_2021|St. Elizabeth|tomatoes(salad)|local|264|330|286|moderate|excellent
+july_31_2021|St. Elizabeth|watermelon|local|110|132|121|moderate|excellent
+july_31_2021|St. Elizabeth|yam|negro|-|-|-|-|-
+july_31_2021|St. Elizabeth|yam|sweet|-|-|-|-|-
+july_31_2021|St. Elizabeth|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. Elizabeth|yam|yellow|-|-|-|-|-
+july_31_2021|Westmoreland|broccoli|local|-|-|-|-|-
+july_31_2021|Westmoreland|cabbage (green)|local|132|176|154|moderate|excellent
+july_31_2021|Westmoreland|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Westmoreland|callaloo|shredded|-|-|-|-|-
+july_31_2021|Westmoreland|callaloo|whole|110|132|110|moderate|excellent
+july_31_2021|Westmoreland|cantaloupe|local|-|-|-|-|-
+july_31_2021|Westmoreland|carrot|local|110|154|132|moderate|excellent
+july_31_2021|Westmoreland|cauliflower|local|-|-|-|-|-
+july_31_2021|Westmoreland|coco|local|264|330|286|scarce|excellent
+july_31_2021|Westmoreland|cucumber|local|88|110|110|moderate|excellent
+july_31_2021|Westmoreland|dasheen|local|220|264|264|scarce|excellent
+july_31_2021|Westmoreland|escallion|local|-|-|-|-|-
+july_31_2021|Westmoreland|ginger|local|-|-|-|-|-
+july_31_2021|Westmoreland|green banana|local|110|132|110|moderate|excellent
+july_31_2021|Westmoreland|gungo peas|dry|-|-|-|-|-
+july_31_2021|Westmoreland|gungo peas|green|-|-|-|-|-
+july_31_2021|Westmoreland|honeydew melon|local|-|-|-|-|-
+july_31_2021|Westmoreland|irish potato|local|-|-|-|-|-
+july_31_2021|Westmoreland|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|Westmoreland|lettuce|other|-|-|-|-|-
+july_31_2021|Westmoreland|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|Westmoreland|okra|local|220|264|264|scarce|excellent
+july_31_2021|Westmoreland|onion|local|-|-|-|-|-
+july_31_2021|Westmoreland|pak choi|local|110|132|110|scarce|excellent
+july_31_2021|Westmoreland|papaya|local|132|176|176|moderate|excellent
+july_31_2021|Westmoreland|pepper|scotch bonnet|220|440|330|moderate|excellent
+july_31_2021|Westmoreland|pepper|west indian red|132|176|143|fair|excellent
+july_31_2021|Westmoreland|pineapple|cow boy|132|176|132|scarce|excellent
+july_31_2021|Westmoreland|pineapple|md 2|176|198|198|scarce|excellent
+july_31_2021|Westmoreland|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|Westmoreland|plantain|green|132|176|132|moderate|excellent
+july_31_2021|Westmoreland|plantain|ripe|-|-|-|-|-
+july_31_2021|Westmoreland|pumpkin|local|66|110|88|moderate|excellent
+july_31_2021|Westmoreland|sorrel|local|-|-|-|-|-
+july_31_2021|Westmoreland|string bean|local|-|-|-|-|-
+july_31_2021|Westmoreland|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|Westmoreland|sweet pepper (green)|local|220|264|220|scarce|excellent
+july_31_2021|Westmoreland|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|Westmoreland|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|Westmoreland|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|Westmoreland|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|Westmoreland|sweet potato|local|132|176|176|moderate|excellent
+july_31_2021|Westmoreland|thyme|local|-|-|-|-|-
+july_31_2021|Westmoreland|tomatoes(plummy)|local|176|220|198|scarce|excellent
+july_31_2021|Westmoreland|tomatoes(salad)|local|264|264|264|scarce|excellent
+july_31_2021|Westmoreland|watermelon|local|-|-|-|-|-
+july_31_2021|Westmoreland|yam|negro|-|-|-|-|-
+july_31_2021|Westmoreland|yam|sweet|-|-|-|-|-
+july_31_2021|Westmoreland|yam|white (lucea)|-|-|-|-|-
+july_31_2021|Westmoreland|yam|yellow|-|-|-|-|-
+july_31_2021|Hanover|broccoli|local|-|-|-|-|-
+july_31_2021|Hanover|cabbage (green)|local|110|154|132|moderate|excellent
+july_31_2021|Hanover|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Hanover|callaloo|shredded|-|-|-|-|-
+july_31_2021|Hanover|callaloo|whole|88|110|88|moderate|excellent
+july_31_2021|Hanover|cantaloupe|local|-|-|-|-|-
+july_31_2021|Hanover|carrot|local|220|330|264|moderate|excellent
+july_31_2021|Hanover|cauliflower|local|-|-|-|-|-
+july_31_2021|Hanover|coco|local|176|264|220|moderate|excellent
+july_31_2021|Hanover|cucumber|local|110|132|110|moderate|excellent
+july_31_2021|Hanover|dasheen|local|154|220|176|moderate|excellent
+july_31_2021|Hanover|escallion|local|-|-|-|-|-
+july_31_2021|Hanover|ginger|local|330|660|440|moderate|excellent
+july_31_2021|Hanover|green banana|local|110|176|132|moderate|excellent
+july_31_2021|Hanover|gungo peas|dry|-|-|-|-|-
+july_31_2021|Hanover|gungo peas|green|-|-|-|-|-
+july_31_2021|Hanover|honeydew melon|local|-|-|-|-|-
+july_31_2021|Hanover|irish potato|local|-|-|-|-|-
+july_31_2021|Hanover|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|Hanover|lettuce|other|-|-|-|-|-
+july_31_2021|Hanover|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|Hanover|okra|local|198|264|220|moderate|excellent
+july_31_2021|Hanover|onion|local|-|-|-|-|-
+july_31_2021|Hanover|pak choi|local|132|154|132|moderate|excellent
+july_31_2021|Hanover|papaya|local|-|-|-|-|-
+july_31_2021|Hanover|pepper|scotch bonnet|330|550|440|moderate|excellent
+july_31_2021|Hanover|pepper|west indian red|132|176|154|moderate|excellent
+july_31_2021|Hanover|pineapple|cow boy|110|154|132|moderate|excellent
+july_31_2021|Hanover|pineapple|md 2|-|-|-|-|-
+july_31_2021|Hanover|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|Hanover|plantain|green|110|154|132|moderate|excellent
+july_31_2021|Hanover|plantain|ripe|-|-|-|-|-
+july_31_2021|Hanover|pumpkin|local|88|110|110|moderate|excellent
+july_31_2021|Hanover|sorrel|local|-|-|-|-|-
+july_31_2021|Hanover|string bean|local|220|396|330|moderate|excellent
+july_31_2021|Hanover|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|Hanover|sweet pepper (green)|local|132|176|176|moderate|excellent
+july_31_2021|Hanover|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|Hanover|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|Hanover|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|Hanover|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|Hanover|sweet potato|local|176|264|220|moderate|excellent
+july_31_2021|Hanover|thyme|local|-|-|-|-|-
+july_31_2021|Hanover|tomatoes(plummy)|local|99|132|110|moderate|excellent
+july_31_2021|Hanover|tomatoes(salad)|local|154|176|176|moderate|excellent
+july_31_2021|Hanover|watermelon|local|-|-|-|-|-
+july_31_2021|Hanover|yam|negro|-|-|-|-|-
+july_31_2021|Hanover|yam|sweet|-|-|-|-|-
+july_31_2021|Hanover|yam|white (lucea)|330|440|440|moderate|excellent
+july_31_2021|Hanover|yam|yellow|330|440|440|moderate|excellent
+july_31_2021|St. James|broccoli|local|-|-|-|-|-
+july_31_2021|St. James|cabbage (green)|local|132|176|154|scarce|excellent
+july_31_2021|St. James|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. James|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. James|callaloo|whole|110|132|110|fair|excellent
+july_31_2021|St. James|cantaloupe|local|-|-|-|-|-
+july_31_2021|St. James|carrot|local|-|-|-|-|-
+july_31_2021|St. James|cauliflower|local|-|-|-|-|-
+july_31_2021|St. James|coco|local|-|-|-|-|-
+july_31_2021|St. James|cucumber|local|-|-|-|-|-
+july_31_2021|St. James|dasheen|local|330|330|330|scarce|excellent
+july_31_2021|St. James|escallion|local|-|-|-|-|-
+july_31_2021|St. James|ginger|local|-|-|-|-|-
+july_31_2021|St. James|green banana|local|55|88|71.5|fair|excellent
+july_31_2021|St. James|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. James|gungo peas|green|-|-|-|-|-
+july_31_2021|St. James|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. James|irish potato|local|-|-|-|-|-
+july_31_2021|St. James|lettuce|iceberg (local)|440|440|440|moderate|excellent
+july_31_2021|St. James|lettuce|other|-|-|-|-|-
+july_31_2021|St. James|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|St. James|okra|local|264|286|264|fair|excellent
+july_31_2021|St. James|onion|local|-|-|-|-|-
+july_31_2021|St. James|pak choi|local|132|154|154|moderate|excellent
+july_31_2021|St. James|papaya|local|154|176|154|moderate|excellent
+july_31_2021|St. James|pepper|scotch bonnet|220|330|264|fair|excellent
+july_31_2021|St. James|pepper|west indian red|-|-|-|-|-
+july_31_2021|St. James|pineapple|cow boy|110|154|132|scarce|excellent
+july_31_2021|St. James|pineapple|md 2|154|176|176|scarce|excellent
+july_31_2021|St. James|pineapple|sugar loaf|132|154|154|scarce|excellent
+july_31_2021|St. James|plantain|green|132|154|132|fair|excellent
+july_31_2021|St. James|plantain|ripe|-|-|-|-|-
+july_31_2021|St. James|pumpkin|local|88|110|110|fair|excellent
+july_31_2021|St. James|sorrel|local|-|-|-|-|-
+july_31_2021|St. James|string bean|local|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (green)|local|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. James|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. James|sweet potato|local|-|-|-|-|-
+july_31_2021|St. James|thyme|local|-|-|-|-|-
+july_31_2021|St. James|tomatoes(plummy)|local|-|-|-|-|-
+july_31_2021|St. James|tomatoes(salad)|local|-|-|-|-|-
+july_31_2021|St. James|watermelon|local|-|-|-|-|-
+july_31_2021|St. James|yam|negro|330|330|330|moderate|excellent
+july_31_2021|St. James|yam|sweet|-|-|-|-|-
+july_31_2021|St. James|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. James|yam|yellow|-|-|-|-|-
+july_31_2021|Trelawny|broccoli|local|-|-|-|-|-
+july_31_2021|Trelawny|cabbage (green)|local|132|176|154|moderate|excellent
+july_31_2021|Trelawny|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Trelawny|callaloo|shredded|-|-|-|-|-
+july_31_2021|Trelawny|callaloo|whole|-|-|-|-|-
+july_31_2021|Trelawny|cantaloupe|local|-|-|-|-|-
+july_31_2021|Trelawny|carrot|local|88|110|99|fair|excellent
+july_31_2021|Trelawny|cauliflower|local|-|-|-|-|-
+july_31_2021|Trelawny|coco|local|220|264|242|scarce|excellent
+july_31_2021|Trelawny|cucumber|local|88|110|99|moderate|excellent
+july_31_2021|Trelawny|dasheen|local|-|-|-|-|-
+july_31_2021|Trelawny|escallion|local|-|-|-|-|-
+july_31_2021|Trelawny|ginger|local|396|440|418|scarce|excellent
+july_31_2021|Trelawny|green banana|local|-|-|-|-|-
+july_31_2021|Trelawny|gungo peas|dry|-|-|-|-|-
+july_31_2021|Trelawny|gungo peas|green|-|-|-|-|-
+july_31_2021|Trelawny|honeydew melon|local|-|-|-|-|-
+july_31_2021|Trelawny|irish potato|local|242|286|264|moderate|excellent
+july_31_2021|Trelawny|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|Trelawny|lettuce|other|-|-|-|-|-
+july_31_2021|Trelawny|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|Trelawny|okra|local|-|-|-|-|-
+july_31_2021|Trelawny|onion|local|-|-|-|-|-
+july_31_2021|Trelawny|pak choi|local|-|-|-|-|-
+july_31_2021|Trelawny|papaya|local|-|-|-|-|-
+july_31_2021|Trelawny|pepper|scotch bonnet|286|330|308|moderate|excellent
+july_31_2021|Trelawny|pepper|west indian red|-|-|-|-|-
+july_31_2021|Trelawny|pineapple|cow boy|-|-|-|-|-
+july_31_2021|Trelawny|pineapple|md 2|-|-|-|-|-
+july_31_2021|Trelawny|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|Trelawny|plantain|green|110|132|121|scarce|excellent
+july_31_2021|Trelawny|plantain|ripe|132|176|154|fair|excellent
+july_31_2021|Trelawny|pumpkin|local|77|110|82.5|fair|excellent
+july_31_2021|Trelawny|sorrel|local|-|-|-|-|-
+july_31_2021|Trelawny|string bean|local|-|-|-|-|-
+july_31_2021|Trelawny|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|Trelawny|sweet pepper (green)|local|176|220|198|moderate|excellent
+july_31_2021|Trelawny|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|Trelawny|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|Trelawny|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|Trelawny|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|Trelawny|sweet potato|local|176|220|198|moderate|excellent
+july_31_2021|Trelawny|thyme|local|-|-|-|-|-
+july_31_2021|Trelawny|tomatoes(plummy)|local|132|176|154|moderate|excellent
+july_31_2021|Trelawny|tomatoes(salad)|local|198|242|220|scarce|excellent
+july_31_2021|Trelawny|watermelon|local|-|-|-|-|-
+july_31_2021|Trelawny|yam|negro|-|-|-|-|-
+july_31_2021|Trelawny|yam|sweet|-|-|-|-|-
+july_31_2021|Trelawny|yam|white (lucea)|396|440|418|moderate|excellent
+july_31_2021|Trelawny|yam|yellow|506|550|528|moderate|excellent
+july_31_2021|St. Ann|broccoli|local|-|-|-|-|-
+july_31_2021|St. Ann|cabbage (green)|local|66|110|88|fair|excellent
+july_31_2021|St. Ann|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Ann|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. Ann|callaloo|whole|-|-|-|-|-
+july_31_2021|St. Ann|cantaloupe|local|-|-|-|-|-
+july_31_2021|St. Ann|carrot|local|66|88|77|fair|excellent
+july_31_2021|St. Ann|cauliflower|local|-|-|-|-|-
+july_31_2021|St. Ann|coco|local|-|-|-|-|-
+july_31_2021|St. Ann|cucumber|local|-|-|-|-|-
+july_31_2021|St. Ann|dasheen|local|-|-|-|-|-
+july_31_2021|St. Ann|escallion|local|-|-|-|-|-
+july_31_2021|St. Ann|ginger|local|-|-|-|-|-
+july_31_2021|St. Ann|green banana|local|44|66|55|fair|excellent
+july_31_2021|St. Ann|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Ann|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Ann|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. Ann|irish potato|local|264|286|264|scarce|excellent
+july_31_2021|St. Ann|lettuce|iceberg (local)|440|550|440|scarce|excellent
+july_31_2021|St. Ann|lettuce|other|-|-|-|-|-
+july_31_2021|St. Ann|lettuce|romaine (local)|660|770|660|scarce|excellent
+july_31_2021|St. Ann|okra|local|-|-|-|-|-
+july_31_2021|St. Ann|onion|local|-|-|-|-|-
+july_31_2021|St. Ann|pak choi|local|44|66|44|moderate|excellent
+july_31_2021|St. Ann|papaya|local|-|-|-|-|-
+july_31_2021|St. Ann|pepper|scotch bonnet|220|286|220|moderate|excellent
+july_31_2021|St. Ann|pepper|west indian red|154|176|176|moderate|excellent
+july_31_2021|St. Ann|pineapple|cow boy|-|-|-|-|-
+july_31_2021|St. Ann|pineapple|md 2|-|-|-|-|-
+july_31_2021|St. Ann|pineapple|sugar loaf|-|-|-|-|-
+july_31_2021|St. Ann|plantain|green|88|110|99|moderate|excellent
+july_31_2021|St. Ann|plantain|ripe|-|-|-|-|-
+july_31_2021|St. Ann|pumpkin|local|55|88|60.5|fair|excellent
+july_31_2021|St. Ann|sorrel|local|-|-|-|-|-
+july_31_2021|St. Ann|string bean|local|-|-|-|-|-
+july_31_2021|St. Ann|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Ann|sweet pepper (green)|local|264|330|293.33|scarce|excellent
+july_31_2021|St. Ann|sweet pepper (red)|green house (local)|374|440|403.33|moderate|excellent
+july_31_2021|St. Ann|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Ann|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Ann|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Ann|sweet potato|local|99|132|110|fair|excellent
+july_31_2021|St. Ann|thyme|local|-|-|-|-|-
+july_31_2021|St. Ann|tomatoes(plummy)|local|-|-|-|-|-
+july_31_2021|St. Ann|tomatoes(salad)|local|242|286|264|scarce|excellent
+july_31_2021|St. Ann|watermelon|local|-|-|-|-|-
+july_31_2021|St. Ann|yam|negro|-|-|-|-|-
+july_31_2021|St. Ann|yam|sweet|-|-|-|-|-
+july_31_2021|St. Ann|yam|white (lucea)|374|440|403.33|moderate|excellent
+july_31_2021|St. Ann|yam|yellow|440|660|550|moderate|excellent
+july_31_2021|St. Mary|broccoli|local|220|242|231|scarce|excellent
+july_31_2021|St. Mary|cabbage (green)|local|198|220|220|scarce|excellent
+july_31_2021|St. Mary|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Mary|callaloo|shredded|-|-|-|-|-
+july_31_2021|St. Mary|callaloo|whole|110|110|110|scarce|excellent
+july_31_2021|St. Mary|cantaloupe|local|-|-|-|-|-
+july_31_2021|St. Mary|carrot|local|132|176|154|scarce|excellent
+july_31_2021|St. Mary|cauliflower|local|-|-|-|-|-
+july_31_2021|St. Mary|coco|local|176|220|176|scarce|excellent
+july_31_2021|St. Mary|cucumber|local|110|132|132|scarce|excellent
+july_31_2021|St. Mary|dasheen|local|220|220|220|scarce|excellent
+july_31_2021|St. Mary|escallion|local|-|-|-|-|-
+july_31_2021|St. Mary|ginger|local|-|-|-|-|-
+july_31_2021|St. Mary|green banana|local|44|88|66|fair|excellent
+july_31_2021|St. Mary|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Mary|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Mary|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. Mary|irish potato|local|-|-|-|-|-
+july_31_2021|St. Mary|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|St. Mary|lettuce|other|-|-|-|-|-
+july_31_2021|St. Mary|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|St. Mary|okra|local|-|-|-|-|-
+july_31_2021|St. Mary|onion|local|-|-|-|-|-
+july_31_2021|St. Mary|pak choi|local|132|132|132|scarce|excellent
+july_31_2021|St. Mary|papaya|local|132|176|154|moderate|excellent
+july_31_2021|St. Mary|pepper|scotch bonnet|154|330|154|moderate|excellent
+july_31_2021|St. Mary|pepper|west indian red|110|176|176|moderate|excellent
+july_31_2021|St. Mary|pineapple|cow boy|-|-|-|-|-
+july_31_2021|St. Mary|pineapple|md 2|220|220|220|moderate|excellent
+july_31_2021|St. Mary|pineapple|sugar loaf|132|176|165|moderate|excellent
+july_31_2021|St. Mary|plantain|green|88|110|99|moderate|excellent
+july_31_2021|St. Mary|plantain|ripe|-|-|-|-|-
+july_31_2021|St. Mary|pumpkin|local|66|132|110|moderate|excellent
+july_31_2021|St. Mary|sorrel|local|-|-|-|-|-
+july_31_2021|St. Mary|string bean|local|330|330|330|scarce|excellent
+july_31_2021|St. Mary|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Mary|sweet pepper (green)|local|220|220|220|scarce|excellent
+july_31_2021|St. Mary|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. Mary|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Mary|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Mary|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Mary|sweet potato|local|110|176|176|moderate|excellent
+july_31_2021|St. Mary|thyme|local|-|-|-|-|-
+july_31_2021|St. Mary|tomatoes(plummy)|local|176|220|220|scarce|excellent
+july_31_2021|St. Mary|tomatoes(salad)|local|-|-|-|-|-
+july_31_2021|St. Mary|watermelon|local|77|132|132|moderate|excellent
+july_31_2021|St. Mary|yam|negro|-|-|-|-|-
+july_31_2021|St. Mary|yam|sweet|-|-|-|-|-
+july_31_2021|St. Mary|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. Mary|yam|yellow|-|-|-|-|-
+july_31_2021|Portland|broccoli|local|-|-|-|-|-
+july_31_2021|Portland|cabbage (green)|local|110|220|176|scarce|excellent
+july_31_2021|Portland|cabbage (red)|local|-|-|-|-|-
+july_31_2021|Portland|callaloo|shredded|-|-|-|-|-
+july_31_2021|Portland|callaloo|whole|176|220|198|moderate|excellent
+july_31_2021|Portland|cantaloupe|local|-|-|-|-|-
+july_31_2021|Portland|carrot|local|176|264|220|scarce|excellent
+july_31_2021|Portland|cauliflower|local|-|-|-|-|-
+july_31_2021|Portland|coco|local|264|396|330|moderate|excellent
+july_31_2021|Portland|cucumber|local|264|396|330|moderate|excellent
+july_31_2021|Portland|dasheen|local|264|396|330|moderate|excellent
+july_31_2021|Portland|escallion|local|440|550|495|scarce|excellent
+july_31_2021|Portland|ginger|local|440|550|495|scarce|excellent
+july_31_2021|Portland|green banana|local|66|88|77|fair|excellent
+july_31_2021|Portland|gungo peas|dry|-|-|-|-|-
+july_31_2021|Portland|gungo peas|green|-|-|-|-|-
+july_31_2021|Portland|honeydew melon|local|-|-|-|-|-
+july_31_2021|Portland|irish potato|local|-|-|-|-|-
+july_31_2021|Portland|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|Portland|lettuce|other|-|-|-|-|-
+july_31_2021|Portland|lettuce|romaine (local)|-|-|-|-|-
+july_31_2021|Portland|okra|local|176|220|198|scarce|excellent
+july_31_2021|Portland|onion|local|-|-|-|-|-
+july_31_2021|Portland|pak choi|local|66|176|165|scarce|excellent
+july_31_2021|Portland|papaya|local|110|220|165|scarce|excellent
+july_31_2021|Portland|pepper|scotch bonnet|176|220|198|moderate|excellent
+july_31_2021|Portland|pepper|west indian red|132|176|154|scarce|excellent
+july_31_2021|Portland|pineapple|cow boy|176|220|198|scarce|excellent
+july_31_2021|Portland|pineapple|md 2|176|220|198|scarce|excellent
+july_31_2021|Portland|pineapple|sugar loaf|176|220|198|moderate|excellent
+july_31_2021|Portland|plantain|green|110|220|110|fair|excellent
+july_31_2021|Portland|plantain|ripe|176|220|198|moderate|excellent
+july_31_2021|Portland|pumpkin|local|154|220|176|scarce|excellent
+july_31_2021|Portland|sorrel|local|-|-|-|-|-
+july_31_2021|Portland|string bean|local|-|-|-|-|-
+july_31_2021|Portland|sweet pepper (green)|green house (local)|440|550|495|scarce|excellent
+july_31_2021|Portland|sweet pepper (green)|local|330|440|385|scarce|excellent
+july_31_2021|Portland|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|Portland|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|Portland|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|Portland|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|Portland|sweet potato|local|220|264|242|scarce|excellent
+july_31_2021|Portland|thyme|local|-|-|-|-|-
+july_31_2021|Portland|tomatoes(plummy)|local|176|264|220|scarce|excellent
+july_31_2021|Portland|tomatoes(salad)|local|-|-|-|-|-
+july_31_2021|Portland|watermelon|local|-|-|-|-|-
+july_31_2021|Portland|yam|negro|-|-|-|-|-
+july_31_2021|Portland|yam|sweet|-|-|-|-|-
+july_31_2021|Portland|yam|white (lucea)|-|-|-|-|-
+july_31_2021|Portland|yam|yellow|330|550|440|scarce|excellent
+july_31_2021|St. Thomas|broccoli|local|-|-|-|-|-
+july_31_2021|St. Thomas|cabbage (green)|local|88|154|132|moderate|excellent
+july_31_2021|St. Thomas|cabbage (red)|local|-|-|-|-|-
+july_31_2021|St. Thomas|callaloo|shredded|88|132|110|fair|excellent
+july_31_2021|St. Thomas|callaloo|whole|77|154|110|moderate|excellent
+july_31_2021|St. Thomas|cantaloupe|local|154|220|183.33|moderate|excellent
+july_31_2021|St. Thomas|carrot|local|88|242|143|moderate|excellent
+july_31_2021|St. Thomas|cauliflower|local|-|-|-|-|-
+july_31_2021|St. Thomas|coco|local|154|264|198|moderate|excellent
+july_31_2021|St. Thomas|cucumber|local|33|110|33|average|excellent
+july_31_2021|St. Thomas|dasheen|local|176|264|242|moderate|excellent
+july_31_2021|St. Thomas|escallion|local|-|-|-|-|-
+july_31_2021|St. Thomas|ginger|local|880|990|880|scarce|excellent
+july_31_2021|St. Thomas|green banana|local|44|110|44|moderate|excellent
+july_31_2021|St. Thomas|gungo peas|dry|-|-|-|-|-
+july_31_2021|St. Thomas|gungo peas|green|-|-|-|-|-
+july_31_2021|St. Thomas|honeydew melon|local|-|-|-|-|-
+july_31_2021|St. Thomas|irish potato|local|-|-|-|-|-
+july_31_2021|St. Thomas|lettuce|iceberg (local)|-|-|-|-|-
+july_31_2021|St. Thomas|lettuce|other|-|-|-|-|-
+july_31_2021|St. Thomas|lettuce|romaine (local)|660|770|660|moderate|excellent
+july_31_2021|St. Thomas|okra|local|110|220|132|moderate|excellent
+july_31_2021|St. Thomas|onion|local|264|440|330|scarce|excellent
+july_31_2021|St. Thomas|pak choi|local|66|154|121|moderate|excellent
+july_31_2021|St. Thomas|papaya|local|88|220|154|moderate|excellent
+july_31_2021|St. Thomas|pepper|scotch bonnet|220|330|319|moderate|excellent
+july_31_2021|St. Thomas|pepper|west indian red|132|220|165|moderate|excellent
+july_31_2021|St. Thomas|pineapple|cow boy|132|220|165|moderate|excellent
+july_31_2021|St. Thomas|pineapple|md 2|-|-|-|-|-
+july_31_2021|St. Thomas|pineapple|sugar loaf|154|220|165|moderate|excellent
+july_31_2021|St. Thomas|plantain|green|77|110|91.67|moderate|excellent
+july_31_2021|St. Thomas|plantain|ripe|154|264|220|moderate|excellent
+july_31_2021|St. Thomas|pumpkin|local|77|176|110|scarce|excellent
+july_31_2021|St. Thomas|sorrel|local|330|550|440|scarce|excellent
+july_31_2021|St. Thomas|string bean|local|176|264|220|moderate|excellent
+july_31_2021|St. Thomas|sweet pepper (green)|green house (local)|-|-|-|-|-
+july_31_2021|St. Thomas|sweet pepper (green)|local|176|330|220|moderate|excellent
+july_31_2021|St. Thomas|sweet pepper (red)|green house (local)|-|-|-|-|-
+july_31_2021|St. Thomas|sweet pepper (red)|local|-|-|-|-|-
+july_31_2021|St. Thomas|sweet pepper (yellow)|green house (local)|-|-|-|-|-
+july_31_2021|St. Thomas|sweet pepper (yellow)|local|-|-|-|-|-
+july_31_2021|St. Thomas|sweet potato|local|176|264|227.33|moderate|excellent
+july_31_2021|St. Thomas|thyme|local|-|-|-|-|-
+july_31_2021|St. Thomas|tomatoes(plummy)|local|110|176|143|moderate|excellent
+july_31_2021|St. Thomas|tomatoes(salad)|local|-|-|-|-|-
+july_31_2021|St. Thomas|watermelon|local|88|132|110|moderate|excellent
+july_31_2021|St. Thomas|yam|negro|-|-|-|-|-
+july_31_2021|St. Thomas|yam|sweet|-|-|-|-|-
+july_31_2021|St. Thomas|yam|white (lucea)|-|-|-|-|-
+july_31_2021|St. Thomas|yam|yellow|308|440|359.33|moderate|excellent

@@ -1,0 +1,3 @@
+[console_scripts]
+price_analytics = farm_analytics.price_analytics:food_price_analytics
+

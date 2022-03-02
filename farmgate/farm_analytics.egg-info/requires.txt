@@ -1,0 +1,7 @@
+click
+fastcore
+packaging
+pandas
+pip
+
+[dev]
